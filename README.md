@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhitneyR-Dev
-- 👀 I’m interested in creating a gamification assesmnet portal for Sage x3 based on the Pacman Arcade game theme
+- 👀 I’m interested in creating a gamification assessment portal for Sage x3 based on the Pacman Arcade game theme
 - 🌱 I’m currently learning python, java and generative ai
 - 💞️ I’m looking to collaborate on cool solutions to achieve my goal
 - 📫 How to reach me here on my github
