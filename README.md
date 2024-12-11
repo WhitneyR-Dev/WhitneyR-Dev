@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool solutions to achieve my goal
 - 📫 How to reach me  get in touch here on my github
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a unicorn, I poop rainbows and fart glitter 
+- ⚡ Fun fact: I'm a unicorn, I poop rainbows and fart glitter!💜 
 
 <!---
 WhitneyR-Dev/WhitneyR-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
